@@ -3,8 +3,9 @@
 
 
 1. **Write a blog on the difference between document and window objects**
+
     Mentioned Topic in this blog are:-
-    
+
         . Browser Object Model (BOM)
         . Document Object Model
         . Window Vs Document
